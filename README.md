@@ -327,4 +327,4 @@ RAG + AI Agent + Tool Calling + LangChain + ChromaDB + Groq + Streamlit
 ✅ Source/Page Display Working
 ✅ Streamlit UI Working
 ✅ FastAPI Endpoint Working
-🚀 Cloud Deployment — Final Step
+🚀 Deployed on Streamlit Community Cloud
