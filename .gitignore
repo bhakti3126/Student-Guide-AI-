@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+job_env/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Chroma Vector Database
+chroma_db/
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
